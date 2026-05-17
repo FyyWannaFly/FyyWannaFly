@@ -1,7 +1,7 @@
 <h1> fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=A855F7&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
 </p>
 
 <a href="https://github.com/FyyWannaFly" target="_blank">
@@ -21,7 +21,7 @@
 - I like building **route tooling**, **native launchers**, **runtime helpers**, and **backend validation flows**
 - Most of what I ship is made for **real usage**, not just one-time demos
 
-<h2> Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
+<h2> Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlneGRmbjV6N2FpaTQ3ZTRhZWF3aDVoZ3R6aXoxMWF5OHN2Y2YybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="28px"> </h2>
 
 <a href="https://www.lua.org/" target="_blank">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -62,6 +62,15 @@ FyyXPW           -> native runtime-focused internal work
 FyyXPW_Injector  -> authenticated launcher and gated delivery flow
 FyyPW-License    -> device-bound access platform and admin workflow infra
 VS experiments   -> native helpers, UI tests, private delivery tooling
+```
+
+<h2> Current Build </h2>
+
+```text
+status      -> shipping quietly
+focus       -> private delivery systems
+refining    -> validation flows + runtime helpers
+goal        -> cleaner tooling, better distribution
 ```
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
