@@ -11,6 +11,7 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <img alt="Focus" src="https://img.shields.io/badge/Focus-Private%20Systems-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
+<img alt="Mode" src="https://img.shields.io/badge/Mode-Building%20Cool%20Things-111827?style=for-the-badge&logo=githubsponsors&logoColor=white">
 
 <br>
 
@@ -66,6 +67,10 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/FyyWannaFly/FyyWannaFly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -76,14 +81,6 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=520&langs_count=10" height="260px"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FyyWannaFly/FyyWannaFly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <h2> Current Direction </h2>
