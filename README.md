@@ -1,91 +1,94 @@
-<div align="center">
-
-```text
-initializing profile...
-identity loaded
-status: online
-```
-
-# FyyWannaFly
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=C9D1D9&center=true&vCenter=true&width=860&height=34&lines=systems+%7C+tooling+%7C+automation;private+delivery+%7C+validation+flows+%7C+native+helpers;clean+builds+for+repeatable+workflows" alt="Typing SVG" />
+<h1> fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
 <p>
-  <a href="https://github.com/FyyWannaFly">
-    <img src="https://img.shields.io/badge/github-FyyWannaFly-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/77nEeYeFRp">
-    <img src="https://img.shields.io/badge/community-discord-0d1117?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <img src="https://img.shields.io/badge/focus-private%20systems-0d1117?style=flat-square&logo=windows-terminal&logoColor=white" alt="Focus" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
 </p>
 
-</div>
+<a href="https://github.com/FyyWannaFly" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://discord.gg/77nEeYeFRp" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<img alt="Focus" src="https://img.shields.io/badge/Focus-Private%20Systems-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
 
-I build **private tools**, **automation flows**, **data-driven playback systems**, **license-managed platforms**, and **native runtime helpers**.
+<br>
 
-Most of my work sits between interface and infrastructure: clean on the surface, strict underneath, and designed for real use instead of one-off demos.
+- **Yo, I'm Fyy**
+- I build **private tools**, **automation systems**, and **license-managed platforms**
+- My work usually blends **Luau**, **Lua**, **TypeScript**, **JavaScript**, **C**, and **C++**
+- I like building **route tooling**, **native launchers**, **runtime helpers**, and **backend validation flows**
+- Most of what I ship is made for **real usage**, not just one-time demos
 
-## system.profile
+<h2> Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 
-```text
-name        = Fyy
-specialty   = tooling, automation, private distribution
-workflow    = ui + backend + launcher + validation
-languages   = luau, lua, javascript, typescript, c, c++
-```
+<a href="https://www.lua.org/" target="_blank">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://www.javascript.com" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</a>
 
-## system.work
+<h2> Featured Work </h2>
 
-| project | description |
-| --- | --- |
-| [FyyLuaCollection](https://github.com/FyyWannaFly/FyyLuaCollection) | Curated script hub with encrypted releases, structured docs, and UI-led tooling. |
-| [FyyMountHub](https://github.com/FyyWannaFly/FyyMountHub) | Auth-gated utility hub with playback controls, data-driven workflows, and operator tools. |
-| [TrackMountRoblox](https://github.com/FyyWannaFly/TrackMountRoblox) | Route archive built around reusable JSON movement datasets and playback-oriented data. |
-| [FyyLicensesShowcase](https://github.com/FyyWannaFly/FyyLicensesShowcase) | Architecture showcase for a bot + API + loader-based access platform. |
+- **[FyyLuaCollection](https://github.com/FyyWannaFly/FyyLuaCollection)** — curated script hub with encrypted releases, structured docs, and UI-driven tooling
+- **[FyyMountHub](https://github.com/FyyWannaFly/FyyMountHub)** — auth-gated utility hub with playback controls, operator tools, and data-driven workflows
+- **[TrackMountRoblox](https://github.com/FyyWannaFly/TrackMountRoblox)** — route archive built around reusable JSON movement datasets and playback-oriented data
+- **[FyyLicensesShowcase](https://github.com/FyyWannaFly/FyyLicensesShowcase)** — public architecture showcase for a bot + API + loader-based access platform
 
-```text
-private systems
---------------
-FyyXPW           native runtime-focused internal work
-FyyXPW_Injector  authenticated launcher and gated delivery flow
-FyyPW-License    device-bound access platform and admin workflow infra
-VS experiments   native helpers, ui tests, private delivery tooling
-```
-
-## system.capabilities
-
-- build maintainable script ecosystems
-- shape reusable data and playback pipelines
-- connect bot-managed access to API-backed validation
-- ship native launchers and runtime-side helper tools
-
-## system.stack
-
-`Luau` `Lua` `JavaScript` `TypeScript` `Node.js` `Express` `Discord.js` `MongoDB` `C` `C++`
-
-## system.metrics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FyyWannaFly&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=E6EDF3&text_color=9CA3AF&icon_color=58A6FF&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=9CA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FyyWannaFly&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=E6EDF3&text_color=9CA3AF&langs_count=8" alt="Top languages" />
-</div>
-
-## system.direction
+<h2> Private Work </h2>
 
 ```text
-+ refining private delivery systems
-+ improving validation and license flows
-+ making data tooling cleaner and easier to reuse
-+ pushing native-side helpers further
+FyyXPW           -> native runtime-focused internal work
+FyyXPW_Injector  -> authenticated launcher and gated delivery flow
+FyyPW-License    -> device-bound access platform and admin workflow infra
+VS experiments   -> native helpers, UI tests, private delivery tooling
 ```
 
----
+<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
 
 <div align="center">
-  <sub>Fyy Community // Lets Fly High</sub>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
+
+<h2> Current Direction </h2>
+
+- refining private delivery systems
+- improving validation and license flows
+- making route and data tooling cleaner to reuse
+- pushing native-side helpers further
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
