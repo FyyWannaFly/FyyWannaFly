@@ -72,14 +72,14 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180px"/>
+        <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="230px"/>
 </div>
 
 <div align="center">
