@@ -79,7 +79,7 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="230px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=520&langs_count=10" height="260px"/>
 </div>
 
 <div align="center">
