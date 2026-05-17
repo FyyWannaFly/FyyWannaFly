@@ -1,9 +1,10 @@
 <h1> fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=A855F7&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
 <a href="https://github.com/FyyWannaFly" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -11,7 +12,8 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <img alt="Focus" src="https://img.shields.io/badge/Focus-Private%20Systems-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
-<img alt="Mode" src="https://img.shields.io/badge/Mode-Building%20Cool%20Things-111827?style=for-the-badge&logo=githubsponsors&logoColor=white">
+<img alt="Mode" src="https://img.shields.io/badge/Mode-Crafting%20Cool%20Systems-111827?style=for-the-badge&logo=githubsponsors&logoColor=white">
+</p>
 
 <br>
 
@@ -21,7 +23,7 @@
 - I like building **route tooling**, **native launchers**, **runtime helpers**, and **backend validation flows**
 - Most of what I ship is made for **real usage**, not just one-time demos
 
-<h2> Stack <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlneGRmbjV6N2FpaTQ3ZTRhZWF3aDVoZ3R6aXoxMWF5OHN2Y2YybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="28px"> </h2>
+<h2> Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 
 <a href="https://www.lua.org/" target="_blank">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
