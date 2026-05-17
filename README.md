@@ -16,7 +16,7 @@
 
 - **Yo, I'm Fyy**
 - I build **private tools**, **automation systems**, and **license-managed platforms**
-- My work usually blends **Luau**, **Lua**, **TypeScript**, **JavaScript**, **C**, and **C++**
+- My work blends **Luau**, **Lua**, **TypeScript**, **JavaScript**, **C**, and **C++**
 - I like building **route tooling**, **native launchers**, **runtime helpers**, and **backend validation flows**
 - Most of what I ship is made for **real usage**, not just one-time demos
 
@@ -47,7 +47,7 @@
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 </a>
 
-<h2> Featured Work </h2>
+<h2> Featured Work <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54M3I4aHk3dDVqeGxyZWdrZjR4cGk0NHM4dXB1a2w5dW14MHN1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="28px"> </h2>
 
 - **[FyyLuaCollection](https://github.com/FyyWannaFly/FyyLuaCollection)** — curated script hub with encrypted releases, structured docs, and UI-driven tooling
 - **[FyyMountHub](https://github.com/FyyWannaFly/FyyMountHub)** — auth-gated utility hub with playback controls, operator tools, and data-driven workflows
@@ -69,10 +69,10 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FyyWannaFly&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180px"/>
       </td>
     </tr>
   </table>
@@ -80,6 +80,10 @@ VS experiments   -> native helpers, UI tests, private delivery tooling
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FyyWannaFly/FyyWannaFly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <h2> Current Direction </h2>
