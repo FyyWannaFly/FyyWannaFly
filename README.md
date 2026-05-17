@@ -1,18 +1,18 @@
 <h1> fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=D8B4FE&center=true&vCenter=true&width=760&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/FyyWannaFly" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=E9D5FF">
 </a>
 <a href="https://discord.gg/77nEeYeFRp" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=F3E8FF">
 </a>
-<img alt="Focus" src="https://img.shields.io/badge/Focus-Private%20Systems-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
-<img alt="Mode" src="https://img.shields.io/badge/Mode-Crafting%20Cool%20Systems-111827?style=for-the-badge&logo=githubsponsors&logoColor=white">
+<img alt="Focus" src="https://img.shields.io/badge/Focus-Private%20Systems-5B21B6?style=for-the-badge&logo=windows-terminal&logoColor=F3E8FF">
+<img alt="Mode" src="https://img.shields.io/badge/Mode-Crafting%20Cool%20Systems-6D28D9?style=for-the-badge&logo=githubsponsors&logoColor=F5F3FF">
 </p>
 
 <br>
