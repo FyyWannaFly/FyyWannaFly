@@ -100,7 +100,7 @@ goal        -> cleaner tooling, better distribution
 - improving validation and license flows
 - making route and data tooling cleaner to reuse
 - pushing native-side helpers further
-
+- LETSSS GOO MAKE COOLLL PROJECTTT 🔥
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
