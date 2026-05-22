@@ -1,4 +1,4 @@
-<h1> fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
+<h1> Fyy@workspace:~$ ./init_profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+private+tools+that+actually+ship;Automation%2C+license+flows%2C+and+native+helpers;Clean+systems+for+repeatable+workflows" alt="Typing SVG" /></a>
